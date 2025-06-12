@@ -12,7 +12,7 @@ In this project, we classified images from the animals 10 data set.
 
 - Built a sequential CNN model
 - Optimized the model
-- Prediction accuracy of on holdout data set: 80,99%
+- Prediction accuracy of on holdout data set: 91.02%
 - transfer learning from VGG16
 - Deployed on Gradio where user could upload image to predict animal class (link expired after 72 hours)
 
@@ -29,10 +29,10 @@ Here is a short description of the folder and files available on the repository.
 - holdout_subset.zip. You can use these images to predict with the model
 
 ### Notebooks  
-- split_validation_set: split the data set to one set for training and testing (90%) and a second one to make predictions (10%)
-- model_1.ypynb : The starting point model
-- model_optimized_ypnb: The optimized model
-- transfer_learning_winner.ipynb: using VGG16 to predict the data set
+- Split_Validation_Data: split the data set to one set for training and testing (90%) and a second one to make predictions (10%)
+- Model1.ypynb : The starting point model
+- Model2(optimized).ypnb: The optimized model
+- Transfer_learning(winner_model).ipynb: using VGG16 to predict the data set
 - Deploy_gradio.ipynb: notebook to deploy the model to a website by using gradio
 
 
