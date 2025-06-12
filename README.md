@@ -4,6 +4,7 @@ This was a project during the course "AI Engineering". We Built a Convolutional 
 
 [Task Descriptions and Project Instructions](https://github.com/ironhack-labs/project-1-deep-learning-image-classification-with-cnn)
 
+-------------------------
 
 ## Project Results
 In this project, we classified images from the animals 10 data set.
@@ -16,9 +17,7 @@ In this project, we classified images from the animals 10 data set.
 - transfer learning from VGG16
 - Deployed on Gradio where user could upload image to predict animal class (link expired after 72 hours)
 
-[Project presenatation](
-https://docs.google.com/presentation/d/11OfQFu_mEn0karKFN0GwSh32nj1BKaMf4u_9GwSmyRY/edit#slide=id.p)
-
+--------------------------
 
 ## Repository Folders and Files
 
@@ -35,6 +34,8 @@ Here is a short description of the folder and files available on the repository.
 - [Transfer_learning(winner_model)](Notebooks/Transfer_learning(winner_model).ipynb) : Using VGG16 to predict the data set
 - [Deploy_gradio](Deploy_gradio.ipynb) : Notebook to deploy the model to a website by using gradi
 
+
+-----------------------
 
 ## Installation
 Use **requirements.txt** to install the required packages to run the notebooks.
