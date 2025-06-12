@@ -29,11 +29,11 @@ Here is a short description of the folder and files available on the repository.
 - holdout_subset.zip. You can use these images to predict with the model
 
 ### Notebooks  
-- Split_Validation_Data: split the data set to one set for training and testing (90%) and a second one to make predictions (10%)
-- Model1.ypynb : The starting point model
-- Model2(optimized).ypnb: The optimized model
-- Transfer_learning(winner_model).ipynb: using VGG16 to predict the data set
-- Deploy_gradio.ipynb: notebook to deploy the model to a website by using gradio
+- [Split_Validation_Data](Split_Validation_Data): split the data set to one set for training and testing (90%) and a second one to make predictions (10%)
+- [Model1](Notebooks/Model1.ipynb) : The starting point model
+- [Model2(optimized)](Notebooks/Model2(optimized).ipynb) : The optimized model
+- [Transfer_learning(winner_model)](Notebooks/Transfer_learning(winner_model).ipynb) : Using VGG16 to predict the data set
+- [Deploy_gradio](Deploy_gradio.ipynb) : Notebook to deploy the model to a website by using gradi
 
 
 ## Installation
