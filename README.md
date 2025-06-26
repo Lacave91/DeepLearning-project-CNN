@@ -16,7 +16,7 @@ We tackled the Animals-10 dataset, containing images from 10 animal categories (
 
 - 🧠 Built multiple CNN models from scratch
 
-- 📈 Achieved 91.02% accuracy on holdout data
+- 📈 Achieved 95.15% accuracy on holdout data
 
 - 🔁 Implemented transfer learning using VGG16
 
